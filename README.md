@@ -16,7 +16,8 @@ This project is completed
 
 #### Example:   
 
-![ScreenShot](https://raw.github.com/singhru27/Shell/main/screenshots/Home.png)
+![ScreenShot](https://github.com/singhru27/Shell/blob/master/screenshots/Home.png?raw=true)
+
 
 ## Installation and Setup Instructions
 
